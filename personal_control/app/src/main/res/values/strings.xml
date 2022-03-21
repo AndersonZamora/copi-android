@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">personal_control</string>
+    <string name="name_username">Coral Zamora</string>
+    <string name="enter_button">Marcar Entra</string>
+    <string name="exit_button">Marcar Salida</string>
+    <string name="text_entry">Entrada </string>
+    <string name="_exit">Salida</string>
+    <string name="_getting_location">Obteniendo ubicación, si el proceso demora, cerrar la aplicación y activar GPS.</string>
+    <string name="separator">:</string>
+    <string name="hour">08:01 AM</string>
+    <string name="business">CinCout</string>
+    <string name="_register">Registrar</string>
+    <string name="cancel">Cancelar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting_not_available">Ajuste no disponible</string>
+    <string name="location">Localización</string>
+    <string name="camera">Cámara</string>
+    <string name="point_work">Sin el permiso de localización no podemos obtener tu ubicación en el punto de trabajo</string>
+    <string name="scan_code">Sin el permiso de cámara no podrá escanear el codigo</string>
+    <string name="accept">Aceptar</string>
+</resources>
